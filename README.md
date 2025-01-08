@@ -1,4 +1,4 @@
-# Hi, I’m Harish D N 👋
+# Hi, I’m Harish D N
 
 I’m currently pursuing a **PhD in Cosmology**, with a focus on understanding the **early universe**. My research primarily explores **Primordial Black Hole (PBH) production** in **inflationary models**, aiming to understand the origins of universe.
 
