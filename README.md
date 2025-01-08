@@ -12,5 +12,5 @@ Feel free to explore my repositories, where I share my research, simulations, an
 
 ---
 
-You can also find me on [LinkedIn][Research Gate][InspireHEP]
+You can also find me on [LinkedIn][Research Gate][InspireHEP](https://inspirehep.net/authors/2804915)
 
